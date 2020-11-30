@@ -1,4 +1,4 @@
-module example.com/user/hello
+module github.com/AJ2O/golang-gettingstarted
 
 go 1.15
 
